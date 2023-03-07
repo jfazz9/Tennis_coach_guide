@@ -37,7 +37,7 @@ for shot in net_play:
                             continue
                         elif action == 'drop-shot' and spin in ['flat', 'topspin']: # you wouldn't do a topspin drop shot, Would youuu??? :)
                             continue
-                        elif shot == 'Smash' and action == 'lob': # possible but not good for training
+                        elif shot == 'Smash' and action == 'lob': # possible but not good for specfic training
                             continue
                         else:
                             print(type +' ' + shot +' ' + spin + ' ' + action + ' ' + dir + ' ' + land + ' ')

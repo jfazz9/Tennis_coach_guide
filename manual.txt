@@ -1,0 +1,281 @@
+Forehand slice drop-shot straight short 
+Forehand slice drop-shot angle short 
+Forehand backspin drop-shot straight short 
+Forehand backspin drop-shot angle short 
+Forehand topspin drive straight deep 
+Forehand topspin drive straight middle 
+Forehand topspin drive straight short 
+Forehand topspin drive angle deep 
+Forehand topspin drive angle middle 
+Forehand topspin drive angle short 
+Forehand slice drive straight deep 
+Forehand slice drive straight middle 
+Forehand slice drive straight short 
+Forehand slice drive angle deep 
+Forehand slice drive angle middle 
+Forehand slice drive angle short 
+Forehand backspin drive straight deep 
+Forehand backspin drive straight middle 
+Forehand backspin drive straight short 
+Forehand backspin drive angle deep 
+Forehand backspin drive angle middle 
+Forehand backspin drive angle short 
+Forehand flat drive straight deep 
+Forehand flat drive straight middle 
+Forehand flat drive straight short 
+Forehand flat drive angle deep 
+Forehand flat drive angle middle 
+Forehand flat drive angle short 
+Forehand topspin lob straight deep 
+Forehand topspin lob angle deep 
+Forehand slice lob straight deep 
+Forehand slice lob angle deep 
+Forehand backspin lob straight deep 
+Forehand backspin lob angle deep 
+Forehand flat lob straight deep 
+Forehand flat lob angle deep 
+Backhand slice drop-shot straight short 
+Backhand slice drop-shot angle short 
+Backhand backspin drop-shot straight short 
+Backhand backspin drop-shot angle short 
+Backhand topspin drive straight deep 
+Backhand topspin drive straight middle 
+Backhand topspin drive straight short 
+Backhand topspin drive angle deep 
+Backhand topspin drive angle middle 
+Backhand topspin drive angle short 
+Backhand slice drive straight deep 
+Backhand slice drive straight middle 
+Backhand slice drive straight short 
+Backhand slice drive angle deep 
+Backhand slice drive angle middle 
+Backhand slice drive angle short 
+Backhand backspin drive straight deep 
+Backhand backspin drive straight middle 
+Backhand backspin drive straight short 
+Backhand backspin drive angle deep 
+Backhand backspin drive angle middle 
+Backhand backspin drive angle short 
+Backhand flat drive straight deep 
+Backhand flat drive straight middle 
+Backhand flat drive straight short 
+Backhand flat drive angle deep 
+Backhand flat drive angle middle 
+Backhand flat drive angle short 
+Backhand topspin lob straight deep 
+Backhand topspin lob angle deep 
+Backhand slice lob straight deep 
+Backhand slice lob angle deep 
+Backhand backspin lob straight deep 
+Backhand backspin lob angle deep 
+Backhand flat lob straight deep 
+Backhand flat lob angle deep 
+Forehand Volley slice drop-shot straight short 
+Forehand Volley slice drop-shot angle short 
+Forehand Volley backspin drop-shot straight short 
+Forehand Volley backspin drop-shot angle short 
+Forehand Volley topspin drive straight deep 
+Forehand Volley topspin drive straight middle 
+Forehand Volley topspin drive straight short 
+Forehand Volley topspin drive angle deep 
+Forehand Volley topspin drive angle middle 
+Forehand Volley topspin drive angle short 
+Forehand Volley slice drive straight deep 
+Forehand Volley slice drive straight middle 
+Forehand Volley slice drive straight short 
+Forehand Volley slice drive angle deep 
+Forehand Volley slice drive angle middle 
+Forehand Volley slice drive angle short 
+Forehand Volley backspin drive straight deep 
+Forehand Volley backspin drive straight middle 
+Forehand Volley backspin drive straight short 
+Forehand Volley backspin drive angle deep 
+Forehand Volley backspin drive angle middle 
+Forehand Volley backspin drive angle short 
+Forehand Volley flat drive straight deep 
+Forehand Volley flat drive straight middle 
+Forehand Volley flat drive straight short 
+Forehand Volley flat drive angle deep 
+Forehand Volley flat drive angle middle 
+Forehand Volley flat drive angle short 
+Forehand Volley topspin lob straight deep 
+Forehand Volley topspin lob angle deep 
+Forehand Volley slice lob straight deep 
+Forehand Volley slice lob angle deep 
+Forehand Volley backspin lob straight deep 
+Forehand Volley backspin lob angle deep 
+Forehand Volley flat lob straight deep 
+Forehand Volley flat lob angle deep 
+Backhand Volley slice drop-shot straight short 
+Backhand Volley slice drop-shot angle short 
+Backhand Volley backspin drop-shot straight short 
+Backhand Volley backspin drop-shot angle short 
+Backhand Volley topspin drive straight deep 
+Backhand Volley topspin drive straight middle 
+Backhand Volley topspin drive straight short 
+Backhand Volley topspin drive angle deep 
+Backhand Volley topspin drive angle middle 
+Backhand Volley topspin drive angle short 
+Backhand Volley slice drive straight deep 
+Backhand Volley slice drive straight middle 
+Backhand Volley slice drive straight short 
+Backhand Volley slice drive angle deep 
+Backhand Volley slice drive angle middle 
+Backhand Volley slice drive angle short 
+Backhand Volley backspin drive straight deep 
+Backhand Volley backspin drive straight middle 
+Backhand Volley backspin drive straight short 
+Backhand Volley backspin drive angle deep 
+Backhand Volley backspin drive angle middle 
+Backhand Volley backspin drive angle short 
+Backhand Volley flat drive straight deep 
+Backhand Volley flat drive straight middle 
+Backhand Volley flat drive straight short 
+Backhand Volley flat drive angle deep 
+Backhand Volley flat drive angle middle 
+Backhand Volley flat drive angle short 
+Backhand Volley topspin lob straight deep 
+Backhand Volley topspin lob angle deep 
+Backhand Volley slice lob straight deep 
+Backhand Volley slice lob angle deep 
+Backhand Volley backspin lob straight deep 
+Backhand Volley backspin lob angle deep 
+Backhand Volley flat lob straight deep 
+Backhand Volley flat lob angle deep 
+Forehand Smash slice drop-shot straight short 
+Forehand Smash slice drop-shot angle short 
+Forehand Smash backspin drop-shot straight short 
+Forehand Smash backspin drop-shot angle short 
+Forehand Smash topspin drive straight deep 
+Forehand Smash topspin drive straight middle 
+Forehand Smash topspin drive straight short 
+Forehand Smash topspin drive angle deep 
+Forehand Smash topspin drive angle middle 
+Forehand Smash topspin drive angle short 
+Forehand Smash slice drive straight deep 
+Forehand Smash slice drive straight middle 
+Forehand Smash slice drive straight short 
+Forehand Smash slice drive angle deep 
+Forehand Smash slice drive angle middle 
+Forehand Smash slice drive angle short 
+Forehand Smash backspin drive straight deep 
+Forehand Smash backspin drive straight middle 
+Forehand Smash backspin drive straight short 
+Forehand Smash backspin drive angle deep 
+Forehand Smash backspin drive angle middle 
+Forehand Smash backspin drive angle short 
+Forehand Smash flat drive straight deep 
+Forehand Smash flat drive straight middle 
+Forehand Smash flat drive straight short 
+Forehand Smash flat drive angle deep 
+Forehand Smash flat drive angle middle 
+Forehand Smash flat drive angle short 
+Backhand Smash slice drop-shot straight short 
+Backhand Smash slice drop-shot angle short 
+Backhand Smash backspin drop-shot straight short 
+Backhand Smash backspin drop-shot angle short 
+Backhand Smash topspin drive straight deep 
+Backhand Smash topspin drive straight middle 
+Backhand Smash topspin drive straight short 
+Backhand Smash topspin drive angle deep 
+Backhand Smash topspin drive angle middle 
+Backhand Smash topspin drive angle short 
+Backhand Smash slice drive straight deep 
+Backhand Smash slice drive straight middle 
+Backhand Smash slice drive straight short 
+Backhand Smash slice drive angle deep 
+Backhand Smash slice drive angle middle 
+Backhand Smash slice drive angle short 
+Backhand Smash backspin drive straight deep 
+Backhand Smash backspin drive straight middle 
+Backhand Smash backspin drive straight short 
+Backhand Smash backspin drive angle deep 
+Backhand Smash backspin drive angle middle 
+Backhand Smash backspin drive angle short 
+Backhand Smash flat drive straight deep 
+Backhand Smash flat drive straight middle 
+Backhand Smash flat drive straight short 
+Backhand Smash flat drive angle deep 
+Backhand Smash flat drive angle middle 
+Backhand Smash flat drive angle short 
+topspin Serve wide 
+topspin Serve middle 
+topspin Serve tee 
+slice Serve wide 
+slice Serve middle 
+slice Serve tee 
+flat Serve wide 
+flat Serve middle 
+flat Serve tee 
+Return Serve Forehand slice drop-shot straight short 
+Return Serve Forehand slice drop-shot angle short 
+Return Serve Forehand backspin drop-shot straight short 
+Return Serve Forehand backspin drop-shot angle short 
+Return Serve Forehand topspin drive straight deep 
+Return Serve Forehand topspin drive straight middle 
+Return Serve Forehand topspin drive straight short 
+Return Serve Forehand topspin drive angle deep 
+Return Serve Forehand topspin drive angle middle 
+Return Serve Forehand topspin drive angle short 
+Return Serve Forehand slice drive straight deep 
+Return Serve Forehand slice drive straight middle 
+Return Serve Forehand slice drive straight short 
+Return Serve Forehand slice drive angle deep 
+Return Serve Forehand slice drive angle middle 
+Return Serve Forehand slice drive angle short 
+Return Serve Forehand backspin drive straight deep 
+Return Serve Forehand backspin drive straight middle 
+Return Serve Forehand backspin drive straight short 
+Return Serve Forehand backspin drive angle deep 
+Return Serve Forehand backspin drive angle middle 
+Return Serve Forehand backspin drive angle short 
+Return Serve Forehand flat drive straight deep 
+Return Serve Forehand flat drive straight middle 
+Return Serve Forehand flat drive straight short 
+Return Serve Forehand flat drive angle deep 
+Return Serve Forehand flat drive angle middle 
+Return Serve Forehand flat drive angle short 
+Return Serve Forehand topspin lob straight deep 
+Return Serve Forehand topspin lob angle deep 
+Return Serve Forehand slice lob straight deep 
+Return Serve Forehand slice lob angle deep 
+Return Serve Forehand backspin lob straight deep 
+Return Serve Forehand backspin lob angle deep 
+Return Serve Forehand flat lob straight deep 
+Return Serve Forehand flat lob angle deep 
+Return Serve Backhand slice drop-shot straight short 
+Return Serve Backhand slice drop-shot angle short 
+Return Serve Backhand backspin drop-shot straight short 
+Return Serve Backhand backspin drop-shot angle short 
+Return Serve Backhand topspin drive straight deep 
+Return Serve Backhand topspin drive straight middle 
+Return Serve Backhand topspin drive straight short 
+Return Serve Backhand topspin drive angle deep 
+Return Serve Backhand topspin drive angle middle 
+Return Serve Backhand topspin drive angle short 
+Return Serve Backhand slice drive straight deep 
+Return Serve Backhand slice drive straight middle 
+Return Serve Backhand slice drive straight short 
+Return Serve Backhand slice drive angle deep 
+Return Serve Backhand slice drive angle middle 
+Return Serve Backhand slice drive angle short 
+Return Serve Backhand backspin drive straight deep 
+Return Serve Backhand backspin drive straight middle 
+Return Serve Backhand backspin drive straight short 
+Return Serve Backhand backspin drive angle deep 
+Return Serve Backhand backspin drive angle middle 
+Return Serve Backhand backspin drive angle short 
+Return Serve Backhand flat drive straight deep 
+Return Serve Backhand flat drive straight middle 
+Return Serve Backhand flat drive straight short 
+Return Serve Backhand flat drive angle deep 
+Return Serve Backhand flat drive angle middle 
+Return Serve Backhand flat drive angle short 
+Return Serve Backhand topspin lob straight deep 
+Return Serve Backhand topspin lob angle deep 
+Return Serve Backhand slice lob straight deep 
+Return Serve Backhand slice lob angle deep 
+Return Serve Backhand backspin lob straight deep 
+Return Serve Backhand backspin lob angle deep 
+Return Serve Backhand flat lob straight deep 
+Return Serve Backhand flat lob angle deep 
