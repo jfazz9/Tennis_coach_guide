@@ -15,7 +15,7 @@ class Tennis:
         self.net_play = ["Volley", "Smash"]
     
     def groundstrokes(self): # returns all grounstroke combinations
-        file = []
+        file = ['ALL SHOTS WHICH COVER BASELINE PLAY:']
         for type in self.shot_side:
             for action in self.shot_action:
                 for spin in self.spin_shot:
@@ -31,8 +31,8 @@ class Tennis:
                                 file.append(type +' ' + spin + ' ' + action + ' ' + dir + ' ' + land + ' ')
         return file
     
-    def net(self):
-        file = []
+    def net(self): # returns all combinations of net play
+        file = ['ALL SHOTS WHICH COVER NET PLAY:']
         for shot in self.net_play:
             for type in self.shot_side:
                 for action in self.shot_action:
@@ -51,8 +51,8 @@ class Tennis:
                                     file.append(type +' ' + shot +' ' + spin + ' ' + action + ' ' + dir + ' ' + land + ' ')
         return file
 
-    def serving(self):
-        file = []
+    def serving(self): #variation of serves
+        file = ["ALL SERVES AVAILABLE: "]
         for s in self.serve:
             for action in self.shot_action:
                 for spin in self.spin_shot:
@@ -67,8 +67,8 @@ class Tennis:
                             file.append(spin +' ' + s + ' ' + dir + ' ')
         return file
     
-    def return_of_serve(self):
-        file = []
+    def return_of_serve(self): #all return of serves
+        file = ["ALL VARIATIONS OF RETURNS OF SERVE:"]
         for r in self.return_serve:
             for type in self.shot_side:
                 for action in self.shot_action:
@@ -85,7 +85,7 @@ class Tennis:
                                         file.append(r + ' ' + type +' ' + spin + ' ' + action + ' ' + dir + ' ' + land + ' ')
         return file
     
-    def all_tennis_shots(self):
+    def all_tennis_shots(self): # The tennis Bible
         return Tennis.groundstrokes(self), Tennis.net(self), Tennis.serving(self), Tennis.return_of_serve(self)
     
 
@@ -97,7 +97,9 @@ if __name__=="__main__":
     with open('manual.txt', 'w') as files:
         shots = manual.all_tennis_shots()
         for shot in shots:
+            files.write('\n\n') # make a gap in the file to 
             for detail in shot:
                 files.write(detail + '\n')
+
 
         

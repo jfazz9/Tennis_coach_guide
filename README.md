@@ -17,3 +17,7 @@ python
 
 
 281 patterns of play :)
+
+
+run the script oop tennis ideas and it will return a text document with the combination of shots
+in tennis

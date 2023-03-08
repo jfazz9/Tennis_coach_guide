@@ -1,3 +1,6 @@
+
+
+ALL SHOTS WHICH COVER BASELINE PLAY:
 Forehand slice drop-shot straight short 
 Forehand slice drop-shot angle short 
 Forehand backspin drop-shot straight short 
@@ -70,6 +73,9 @@ Backhand backspin lob straight deep
 Backhand backspin lob angle deep 
 Backhand flat lob straight deep 
 Backhand flat lob angle deep 
+
+
+ALL SHOTS WHICH COVER NET PLAY:
 Forehand Volley slice drop-shot straight short 
 Forehand Volley slice drop-shot angle short 
 Forehand Volley backspin drop-shot straight short 
@@ -198,6 +204,9 @@ Backhand Smash flat drive straight short
 Backhand Smash flat drive angle deep 
 Backhand Smash flat drive angle middle 
 Backhand Smash flat drive angle short 
+
+
+ALL SERVES AVAILABLE: 
 topspin Serve wide 
 topspin Serve middle 
 topspin Serve tee 
@@ -207,6 +216,9 @@ slice Serve tee
 flat Serve wide 
 flat Serve middle 
 flat Serve tee 
+
+
+ALL VARIATIONS OF RETURNS OF SERVE:
 Return Serve Forehand slice drop-shot straight short 
 Return Serve Forehand slice drop-shot angle short 
 Return Serve Forehand backspin drop-shot straight short 
